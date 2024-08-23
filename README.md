@@ -1,7 +1,7 @@
 # MovieGue
 Aplikasi pencarian film internasional
 
-Link Demo : [MovieGue](https://rachmadmaulana.000webhostapp.com/moviegue)
+Link Demo : [MovieGue](https://rachmadmaulanaj.github.io/moviegue-app/)
 
 ![MovieGue](moviegue.gif)
 
